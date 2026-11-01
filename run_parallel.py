@@ -1,5 +1,5 @@
 import concurrent.futures
-from agents.naukri_agent import NaukriAutomationAgent
+from agents.noukari_agent import NaukriAutomationAgent
 from agents.linkedin_agent import LinkedInAutomationAgent
 from agents.indeed_agent import IndeedAutomationAgent
 from utils.logger import log_application
