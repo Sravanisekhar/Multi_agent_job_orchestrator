@@ -1,0 +1,26 @@
+# Credentials & Sensitive Secrets
+config/
+
+# Logs & Runtime Audit Data
+logs/
+data/
+*.log
+
+# Python Virtual Environment & Caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*\$py.class
+.pytest_cache/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Playwright Browser Binaries
+browser/
+playwright/.local-browsers/
